@@ -1,0 +1,40 @@
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 30px solid grey;
+    height: 1000px;
+
+}
+#first{
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 15px;
+    color: darkcyan;
+    margin-left: 20px;
+    
+}
+#second{
+    margin: 20px;
+    font-family: 'Courier Prime', monospace;
+    
+}
+.nested{
+    border-left: 5px solid gray;
+    
+}
+h2{
+    margin: 20px;
+    text-decoration: underline solid gray;
+    text-transform: uppercase;
+
+}
+hr{
+    color:  grey;
+   margin:5%
+
+}
+#third{
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 15px;
+    color: darkcyan;
+    margin-left: 20px;
+}
