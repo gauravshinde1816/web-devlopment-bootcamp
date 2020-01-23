@@ -1,4 +1,4 @@
-// Backend basics.
+ <h1>Backend basics</h1>.
 1)When you searh for some url and hit enter , then browser sents HTTP request to the perticular server.
 2) That HTTP request contains lots of information like client IP address, time and all other information related to the request.
 3)Server sents that HTTP request to the framework or backend code . then that framework look for the information in the DATA BASE .  the information sent back to the framework in the form of objects.
